@@ -1,6 +1,12 @@
 ![Profile banner](./assets/images/profileBanner.png)
 
-### Hi there 👋
+# Hi there, 👋
+
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justindotmorris&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justindotmorris&layout=compact&theme=tokyonights)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JustinDotMorris/justindotmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
