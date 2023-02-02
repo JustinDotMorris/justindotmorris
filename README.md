@@ -2,11 +2,11 @@
 
 <hr>
 <h3>About me:</h3>
-<p>After completing my degree in music technology at the University of South Wales in 2019 I wanted to continue on the path of learning about tech, So in 2020 i started a part time class in computing which helped me gather a basic understand of programming concepts and gave me my first experience in software development. 
+<p>After completing my degree in music technology 🎶 at the University of South Wales in 2019 I wanted to continue on the path of learning about tech, So in 2020 i started a part time class in computing 🖥️ which helped me gather a basic understand of programming concepts and gave me my first experience in software development. 
 
-In 2022 i chose to further my tech knowledge by applying for a course through the Princes Trust in partnership with Nology. This partnership aims to get more people in to the tech sector by providing an intense 12 week bootcamp style course which teaches all the skills needed to become a junior full-stack developer.
+In 2022 i chose to further my tech knowledge 📖 by applying for a course through the Princes Trust in partnership with Nology. This partnership aims to get more people in to the tech sector by providing an intense 12 week bootcamp style course ✍️ which teaches all the skills needed to become a junior full-stack developer.
 
-In February 2023 I completed the training programme. As stressfull as it was, it has been an extremely rewarding experience and one which will propel me into a tech role in no time.
+In February 2023 I completed the training programme. As stressfull as it was, it has been an extremely rewarding experience and one which will propel me 💨 into a tech role in no time.
 
 <hr>
 <h3>Languages and Tools:</h3>
